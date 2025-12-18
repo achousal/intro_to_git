@@ -1,0 +1,436 @@
+commit cc95fb0e53655ebc73dfb1d39e50ce58a8759856
+Author: Toya Takahashi <44595617+toyat522@users.noreply.github.com>
+Date:   Sun Feb 2 02:29:08 2025 -0500
+
+    Update README.md
+
+commit 16869868433fcc41d5ef7e27e93c8919d571884d
+Author: Toya Takahashi <44595617+toyat522@users.noreply.github.com>
+Date:   Sun Feb 2 01:37:31 2025 -0500
+
+    Update README.md
+
+commit be4e8b959a1325e1a8a1ec64f4cbd7dc234e9f4c
+Author: Toya Takahashi <44595617+toyat522@users.noreply.github.com>
+Date:   Sat Feb 1 02:00:05 2025 -0500
+
+    Update README.md
+
+commit 7a6b5864570a63a9260e8dc2f652e96ba5bd4ad9
+Author: Toya Takahashi <44595617+toyat522@users.noreply.github.com>
+Date:   Sat Feb 1 01:58:48 2025 -0500
+
+    Update README.md
+
+commit b142a4c8c5df1ec49cc6f9563657b6a9d9741d88
+Author: Toya Takahashi <44595617+toyat522@users.noreply.github.com>
+Date:   Fri Jan 31 17:13:20 2025 -0500
+
+    Update README.md
+
+commit 9fd3d13b2151a75ddb95d3ae4150c8950789d85a
+Author: ireneterpstra <ireneterpstra2@gmail.com>
+Date:   Wed Feb 7 15:47:32 2024 -0500
+
+    fixed flag
+
+commit a9cf03562b5f36d5c3f7f70add9a4f591bab9200
+Author: ireneterpstra <ireneterpstra2@gmail.com>
+Date:   Mon Feb 5 15:09:44 2024 -0500
+
+    Update README.md
+
+commit 621ca094962a821620710023e3ada473b72027eb
+Author: ireneterpstra <ireneterpstra2@gmail.com>
+Date:   Sun Feb 4 21:32:09 2024 -0500
+
+    Update gradescope links
+
+commit 20b8cb3ceba0f63219b77be97fcd8379419f9611
+Author: Dylan Hadfield-Menell <dhm@csail.mit.edu>
+Date:   Tue Feb 7 08:29:36 2023 -0500
+
+    Fix due dates
+
+commit e9f37f2b22c3e37c69812a78aeb178d5d8287d55
+Author: Juan <salazarj@mit.edu>
+Date:   Tue Feb 1 23:33:59 2022 -0500
+
+    changed master to main
+
+commit d8316662b8e685da358cae9c6055e7a181b57d68
+Author: Juan <salazarj@mit.edu>
+Date:   Sat Jan 29 19:36:49 2022 -0500
+
+    changed deliverable table links for gradescope
+
+commit 9b9fe746225392cea89c386e31bc3cf6dc9a8b44
+Author: vk-chen <52953148+vk-chen@users.noreply.github.com>
+Date:   Sat Jan 29 14:21:10 2022 -0500
+
+    Updates to use only github.com
+
+commit c8b7b13d15a8a719c4d5a316908bf318488797f5
+Author: vk-chen <52953148+vk-chen@users.noreply.github.com>
+Date:   Tue Jan 25 13:59:26 2022 -0500
+
+    Deliverables
+
+commit a64005d1c9fafac9ec13467ddabd53111864cce0
+Author: vk-chen <52953148+vk-chen@users.noreply.github.com>
+Date:   Tue Jan 25 13:19:22 2022 -0500
+
+    Update date and links
+
+commit 1667556ff264d58bc58a9787409087d65160f133
+Merge: a1d518b 595d4a7
+Author: Liam Ackerman <liamack@mit.edu>
+Date:   Tue Feb 16 18:37:18 2021 -0500
+
+    Merge pull request #3 from liamack27/reformat-lab
+    
+    Reformat lab submission details
+
+commit 595d4a756cefb172c34a72bb71795e2e46553831
+Author: Liam Ackerman <liamack@mit.edu>
+Date:   Tue Feb 16 16:48:42 2021 -0500
+
+    Reformatted the submission instruction for better clarity to students
+
+commit 64c925674688fe3fde14ce1523c2e44e69396201
+Author: Liam Ackerman <liamack@mit.edu>
+Date:   Mon Feb 15 22:57:58 2021 -0500
+
+    Spring 21 Updates
+
+commit a1d518b36d600e8f94263f2f011753940c133a1b
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 23:09:20 2020 -0500
+
+    bot should work on macOS now
+
+commit e559c8ef94a39b9d323f15a5d374608e15a38ef0
+Merge: a5d300f 9e5261f
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 23:03:41 2020 -0500
+
+    Merge branch 'master' of github.com:mit-rss/intro_to_git
+
+commit a5d300f33e1c606ff12ce6d54961fe7523ee4a52
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 23:03:29 2020 -0500
+
+    use proper tmp dir for bot
+
+commit 9e5261fd13e0e9813f67e4b75d5b3c86fa5c3cbc
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 22:48:58 2020 -0500
+
+    readme: github links
+
+commit 8a9c264c68ed5d85c15e6cc5e238650039c93e68
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 22:02:13 2020 -0500
+
+    readme: gradescope assignment name
+
+commit 31e8a7770ffc90c32ebe99efb09c97977293cd4b
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 21:51:37 2020 -0500
+
+    readme: clarity
+
+commit 29a417185e2fdec474624a553e5b962209cf5fe1
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 21:25:37 2020 -0500
+
+    readme: clarity
+
+commit 0f2ae3b608b3016ffb5ae9938cffa8de83fb938b
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 21:21:48 2020 -0500
+
+    readme: clarity
+
+commit 1e612d1667ab68eae13c57d8a7e480526b56698b
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 21:20:01 2020 -0500
+
+    readme: typo
+
+commit f9d5c74af104f383ee29ed3708c5db5ccbfadb4b
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 21:13:19 2020 -0500
+
+    Update README.md
+
+commit eb2c4de893b9e397eb0ed653a97a92afa7b04509
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Mon Feb 3 20:43:22 2020 -0500
+
+    Update README.md
+
+commit 2410fd254d25d9b4431aef8d41c4ccfafe9d04ba
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 23:24:39 2020 -0500
+
+    Update README.md
+
+commit 16f6b1201556900779d4b975a2e1e496883df68d
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 21:20:55 2020 -0500
+
+    readme: add visualization
+
+commit c9d50d2fa25d77ff00827a380813f2a528299334
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 20:08:05 2020 -0500
+
+    readme: verify push using github gui
+
+commit 59b78ecef0a87d869b7b428d8ea412e7150f87af
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 20:02:47 2020 -0500
+
+    readme: add push after merging branches
+
+commit f7da57d981d840c51a86a8a13da1034315bbb85c
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 19:51:31 2020 -0500
+
+    readme: fix piazza link
+
+commit 812fd2e59e04b289071dadc2d44ff96edb90b1ec
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 19:42:17 2020 -0500
+
+    readme: fix formatting
+
+commit 0c5876d4b052117f3f22a94d75f23e90502255a0
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 19:41:52 2020 -0500
+
+    readme: put submission instructions at end
+
+commit 829a5609d3ede23dacd4b0d2b7af8cf868805772
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 19:24:06 2020 -0500
+
+    Update README.md
+
+commit 46e7904845697f27b2f23bb6b768f74ac57f018a
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 18:57:25 2020 -0500
+
+    update readme: reflect changes in intro_to_git, remove rebase from conflict resolution, improve wording
+
+commit 41a923da58656683dca85b8b95696038f7736cc0
+Author: Lukas Lao Beyer <lukaslaobeyer@gmail.com>
+Date:   Sun Feb 2 18:36:58 2020 -0500
+
+    user experience fixes, renamed scripts to be more descriptive
+
+commit f37c41fc55c89bfeac7fb6131374a7355df137c4
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 15:03:28 2020 -0500
+
+    Update README.md
+    
+    remove git rebase from exercises
+
+commit d7a27cef00f27a06205c190a114a5deda0473b94
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 14:49:49 2020 -0500
+
+    Update README.md
+    
+    add cheat sheet
+
+commit 750ddd1c77d1110391cec1edafd9a0078543ab3c
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 14:47:59 2020 -0500
+
+    Update README.md
+
+commit 5b17963a3602dac18bba3271bbb3214b7078a7c8
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Sun Feb 2 14:46:41 2020 -0500
+
+    Update README.md
+    
+    change links to git tutorial
+
+commit 400e481161e431d0b95b21d26b78127c62686398
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Fri Jan 31 14:36:12 2020 -0500
+
+    Update README.md
+    
+    explain github
+
+commit c6d0718b57ade02d00bd06e3f2e6b85eb47acf73
+Author: nadyabalabanska <nadya.balabanska@gmail.com>
+Date:   Fri Jan 31 11:09:40 2020 -0500
+
+    Update README.md
+    
+    update due date
+
+commit 55b2c94314fdfec810444fc4ae5dbdb7909d940b
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Mon Feb 11 10:39:32 2019 -0500
+
+    Update README.md
+
+commit a2cfb5a58825c40ac9840392ef36134c7b09ba9d
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Mon Feb 11 04:41:06 2019 -0500
+
+    Update README.md
+
+commit 95b06d74135321302059684aaa676d467cf43fc4
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Mon Feb 11 04:37:49 2019 -0500
+
+    Update README.md
+
+commit 42055944553cea1aca6f62b33968c98e2fc80fb6
+Merge: aa7905d 5ef9c2f
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Sun Feb 10 11:08:58 2019 -0500
+
+    Merge pull request #1 from lucacarlone/patch-1
+    
+    Update README.md
+
+commit 5ef9c2fb74b58d0e481b7dab2d1b3bc494c771af
+Author: lucacarlone <luca.carlone@gatech.edu>
+Date:   Sun Feb 10 11:06:28 2019 -0500
+
+    Update README.md
+
+commit aa7905d24886126117a67e81257bca12205c4e08
+Author: Trevor Henderson <tfh@mit.edu>
+Date:   Sat Feb 9 16:26:16 2019 -0500
+
+    Use SSH rather than HTTPS for cloning.
+
+commit a263277f2d1c81122486cd98fbc8450655c229d9
+Author: Trevor Henderson <tfh@mit.edu>
+Date:   Fri Feb 8 16:42:41 2019 -0500
+
+    Small updates for clarity
+
+commit cc5a6158a880611a585246e1835ddf40804b0c8c
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Fri Feb 8 16:16:21 2019 -0500
+
+    Update README.md
+
+commit 37cf68668f170bf715ac5330b201c40038b800e6
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Fri Feb 8 16:15:20 2019 -0500
+
+    Update README.md
+
+commit e2db4fe8e45a62abb399699bd4c6a4edc6847cfb
+Author: Sabina Chen <sallycolly1227@gmail.com>
+Date:   Fri Feb 8 12:23:57 2019 -0500
+
+    Update README.md
+
+commit 865ed15c60fe529948bb4f928daf6a23dd6c7677
+Author: Sabina Chen <sallycolly1227@gmail.com>
+Date:   Fri Feb 8 12:21:58 2019 -0500
+
+    Update README.md
+
+commit 065424ec166a5afde38428be915851f72b12b7cc
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Fri Feb 8 12:17:02 2019 -0500
+
+    Update README.md
+
+commit 63bb1cec6208c6b0b1c53f7ad408965cbdc7ea52
+Author: Sabina Chen <sallycolly1227@gmail.com>
+Date:   Thu Feb 7 20:24:33 2019 -0500
+
+    Update README.md
+
+commit 47a17fd9388980401bc1cf6eefeb390afc10e016
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Thu Feb 7 01:35:01 2019 -0500
+
+    Update README.md
+
+commit ee714cdfc993e53bb189703631cb4ef8ab8879a1
+Author: Michelle Tan <mtan123456789@gmail.com>
+Date:   Thu Feb 7 01:05:46 2019 -0500
+
+    Update README.md
+
+commit 1cd80d22fb65c676d17d737e04c651e3536f50e4
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:51:35 2019 -0500
+
+    Update README.md
+
+commit fb462253de06790c71e7fd7e5567d764f56f5535
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:36:36 2019 -0500
+
+    Update README.md
+
+commit 28327c183b417d3f1acf4eee3aff59c083d75c7a
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:34:50 2019 -0500
+
+    Update README.md
+
+commit 6a0e60aa56967dad9d46455d2c524e6ecadf3eb2
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:30:31 2019 -0500
+
+    Update README.md
+
+commit 6085d5fa0df8209909d87524a2ab804d02d7f490
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:27:14 2019 -0500
+
+    Update README.md
+
+commit 622889c9c59f623099715b4dcbb29d5527a70e14
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:23:11 2019 -0500
+
+    Update README.md
+
+commit 12696e409c67f948c12f57649721701f6f6edb85
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:07:05 2019 -0500
+
+    Update README.md
+
+commit 24dd9e08b6707b281843c1838dd8206734d60081
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:06:05 2019 -0500
+
+    Update README.md
+
+commit 4ebbf0c684e96ddb3fe33f3cb843be7696d1a1c6
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 03:04:12 2019 -0500
+
+    Update README.md
+
+commit 12aadb1675ce783a51f3e997f4cec913133cfb44
+Author: Sabina Chen <sabinach@SpinachMacPro.local>
+Date:   Wed Feb 6 02:00:36 2019 -0500
+
+    added files
+
+commit 94366e754ad91c4ca478099e02bf5c639858f094
+Author: Sabina Chen <sallycolly1227@gmail.com>
+Date:   Wed Feb 6 00:36:28 2019 -0500
+
+    Initial commit
