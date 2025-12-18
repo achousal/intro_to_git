@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Take this kiss upon the brow!
 O God! can I not save
 Is all that we see or seem
@@ -21,3 +22,7 @@ Yet if hope has flown away
 In a vision, or in none,
 Of a surf-tormented shore,
 O God! can I not grasp
+=======
+Is all that we see or seem
+And I hold within my hand
+>>>>>>> Stashed changes
